@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+
+  composer:
+    init: true
+    build:
+      context: .
+      dockerfile: docker/composer.Dockerfile
+    volumes:
+    - './:/var/www/html'
+    - 'composer_cache:/tmp'
+    tty: true
+    network_mode: host
+    container_name: 'composer'
+
+  php:
+    init: true
+    build:
+      context: .
+      dockerfile: docker/php.Dockerfile
+    volumes:
+    - './:/var/www/html:delegated'
+    - 'composer_cache:/tmp'
+    tty: true
+    network_mode: host
+    container_name: 'php'
+
+  phing:
+    init: true
+    build:
+      context: .
+      dockerfile: docker/phing.Dockerfile
+    tty: true
+    container_name: 'phing'
+    volumes:
+    - './build/logs/:/var/www/html/build/logs/'
+    network_mode: host
+
+volumes:
+  composer_cache:

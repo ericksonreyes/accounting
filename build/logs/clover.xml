@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1678449159">
+  <project timestamp="1678449159">
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Account.php">
+      <metrics loc="34" ncloc="18" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/AccountsPayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\AccountsPayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/AccountsReceivable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\AccountsReceivable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/AccumulatedDepreciation.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\AccumulatedDepreciation" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/AdvertisingExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\AdvertisingExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/AllowanceForUncollectibleAccounts.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\AllowanceForUncollectibleAccounts" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/AmortizationExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\AmortizationExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Appliance.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Appliance" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/AvailableForSaleSecurities.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\AvailableForSaleSecurities" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/BondsPayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\BondsPayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Building.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Building" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/CapitalStock.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\CapitalStock" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Cash.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Cash" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/CashOver.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\CashOver" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/CashShort.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\CashShort" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/CharityContributionsPayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\CharityContributionsPayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/CommonStock.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\CommonStock" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/CostOfGoodsSold.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\CostOfGoodsSold" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/CurrencyExchangeGain.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\CurrencyExchangeGain" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/CurrencyExchangeLoss.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\CurrencyExchangeLoss" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/DepreciationExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\DepreciationExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/DiscountOnBondsPayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\DiscountOnBondsPayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/DiscountOnNotesPayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\DiscountOnNotesPayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Dividend.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Dividend" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/DividendIncome.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\DividendIncome" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/DividendsPayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\DividendsPayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/DomainName.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\DomainName" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/EmployeeBenefitsExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\EmployeeBenefitsExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Equipment.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Equipment" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/FuelExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\FuelExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Gain.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Gain" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/IncomeTaxPayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\IncomeTaxPayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/InsuranceExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\InsuranceExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/InsurancePayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\InsurancePayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/InterestExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\InterestExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/InterestIncome.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\InterestIncome" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/InterestPayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\InterestPayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/InterestReceivable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\InterestReceivable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Inventory.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Inventory" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/InvestmentInBonds.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\InvestmentInBonds" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/InvestmentIncome.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\InvestmentIncome" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Investments.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Investments" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="12" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="14" type="stmt" count="1"/>
+      <metrics loc="17" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Land.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Land" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/LoanPayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\LoanPayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Loss.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Loss" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/MealExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\MealExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/MedicarePayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\MedicarePayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/MiscellaneousExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\MiscellaneousExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/NotesPayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\NotesPayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/NotesReceivable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\NotesReceivable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/ObligationUnderCapitalLease.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\ObligationUnderCapitalLease" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Patent.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Patent" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/PayrollTaxExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\PayrollTaxExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/PettyCash.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\PettyCash" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/PostageExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\PostageExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/PrepaidInsurance.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\PrepaidInsurance" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/PrepaidRent.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\PrepaidRent" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/PurchaseDiscountsLost.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\PurchaseDiscountsLost" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/RentExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\RentExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/RepairExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\RepairExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/RetainedEarnings.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\RetainedEarnings" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/RetirementContributionPayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\RetirementContributionPayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Revenue.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Revenue" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/SalariesExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\SalariesExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/SalariesPayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\SalariesPayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Sales.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Sales" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/SalesDiscounts.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\SalesDiscounts" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/SalesReturns.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\SalesReturns" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/ServiceCharge.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\ServiceCharge" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/ServiceRevenue.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\ServiceRevenue" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/SocialSecurityPayable.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\SocialSecurityPayable" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Subscription.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Subscription" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/Supplies.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\Supplies" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/SuppliesExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\SuppliesExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/TradingSecurities.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\TradingSecurities" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/TransportationExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\TransportationExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/TreasuryStock.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\TreasuryStock" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/UncollectibleAccountsExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\UncollectibleAccountsExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/UnearnedRevenue.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\UnearnedRevenue" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/UnrealizedGain.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\UnrealizedGain" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/UnrealizedLoss.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\UnrealizedLoss" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/UtilitiesExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\UtilitiesExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/WarrantyExpense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\WarrantyExpense" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Account/WarrantyLiability.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Account\WarrantyLiability" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+      </class>
+      <line num="16" type="method" name="name" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <metrics loc="21" ncloc="14" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/AccountType/AccountType.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\AccountType\AccountType" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="14" coveredstatements="14" elements="15" coveredelements="15"/>
+      </class>
+      <line num="38" type="method" name="label" visibility="public" complexity="1" crap="1" count="83"/>
+      <line num="40" type="stmt" count="83"/>
+      <line num="41" type="stmt" count="83"/>
+      <line num="42" type="stmt" count="83"/>
+      <line num="43" type="stmt" count="83"/>
+      <line num="44" type="stmt" count="83"/>
+      <line num="45" type="stmt" count="83"/>
+      <line num="46" type="stmt" count="83"/>
+      <line num="47" type="stmt" count="83"/>
+      <line num="48" type="stmt" count="83"/>
+      <line num="49" type="stmt" count="83"/>
+      <line num="50" type="stmt" count="83"/>
+      <line num="51" type="stmt" count="83"/>
+      <line num="52" type="stmt" count="83"/>
+      <line num="53" type="stmt" count="83"/>
+      <metrics loc="56" ncloc="49" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="14" coveredstatements="14" elements="15" coveredelements="15"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/AccountType/Asset.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\AccountType\Asset" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+      </class>
+      <line num="17" type="method" name="increasedVia" visibility="public" complexity="1" crap="1" count="19"/>
+      <line num="19" type="stmt" count="19"/>
+      <line num="25" type="method" name="decreasedVia" visibility="public" complexity="1" crap="1" count="19"/>
+      <line num="27" type="stmt" count="19"/>
+      <line num="33" type="method" name="type" visibility="public" complexity="1" crap="1" count="38"/>
+      <line num="35" type="stmt" count="38"/>
+      <metrics loc="38" ncloc="25" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/AccountType/ContraAsset.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\AccountType\ContraAsset" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+      </class>
+      <line num="18" type="method" name="increasedVia" visibility="public" complexity="1" crap="1" count="2"/>
+      <line num="20" type="stmt" count="2"/>
+      <line num="26" type="method" name="decreasedVia" visibility="public" complexity="1" crap="1" count="2"/>
+      <line num="28" type="stmt" count="2"/>
+      <line num="34" type="method" name="type" visibility="public" complexity="1" crap="1" count="4"/>
+      <line num="36" type="stmt" count="4"/>
+      <metrics loc="39" ncloc="26" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/AccountType/ContraEquity.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\AccountType\ContraEquity" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+      </class>
+      <line num="19" type="method" name="increasedVia" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="21" type="stmt" count="1"/>
+      <line num="27" type="method" name="decreasedVia" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="29" type="stmt" count="1"/>
+      <line num="35" type="method" name="type" visibility="public" complexity="1" crap="1" count="2"/>
+      <line num="37" type="stmt" count="2"/>
+      <metrics loc="40" ncloc="27" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/AccountType/ContraLiability.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\AccountType\ContraLiability" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+      </class>
+      <line num="17" type="method" name="increasedVia" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="19" type="stmt" count="1"/>
+      <line num="25" type="method" name="decreasedVia" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="27" type="stmt" count="1"/>
+      <line num="33" type="method" name="type" visibility="public" complexity="1" crap="1" count="2"/>
+      <line num="35" type="stmt" count="2"/>
+      <metrics loc="38" ncloc="25" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/AccountType/ContraRevenue.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\AccountType\ContraRevenue" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+      </class>
+      <line num="18" type="method" name="increasedVia" visibility="public" complexity="1" crap="1" count="2"/>
+      <line num="20" type="stmt" count="2"/>
+      <line num="26" type="method" name="decreasedVia" visibility="public" complexity="1" crap="1" count="2"/>
+      <line num="28" type="stmt" count="2"/>
+      <line num="34" type="method" name="type" visibility="public" complexity="1" crap="1" count="4"/>
+      <line num="36" type="stmt" count="4"/>
+      <metrics loc="39" ncloc="26" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/AccountType/Dividend.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\AccountType\Dividend" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+      </class>
+      <line num="17" type="method" name="increasedVia" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="19" type="stmt" count="1"/>
+      <line num="25" type="method" name="decreasedVia" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="27" type="stmt" count="1"/>
+      <line num="33" type="method" name="type" visibility="public" complexity="1" crap="1" count="2"/>
+      <line num="35" type="stmt" count="2"/>
+      <metrics loc="38" ncloc="25" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/AccountType/Equity.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\AccountType\Equity" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+      </class>
+      <line num="17" type="method" name="increasedVia" visibility="public" complexity="1" crap="1" count="3"/>
+      <line num="19" type="stmt" count="3"/>
+      <line num="25" type="method" name="decreasedVia" visibility="public" complexity="1" crap="1" count="3"/>
+      <line num="27" type="stmt" count="3"/>
+      <line num="33" type="method" name="type" visibility="public" complexity="1" crap="1" count="6"/>
+      <line num="35" type="stmt" count="6"/>
+      <metrics loc="38" ncloc="25" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/AccountType/Expense.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\AccountType\Expense" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+      </class>
+      <line num="17" type="method" name="increasedVia" visibility="public" complexity="1" crap="1" count="24"/>
+      <line num="19" type="stmt" count="24"/>
+      <line num="25" type="method" name="decreasedVia" visibility="public" complexity="1" crap="1" count="24"/>
+      <line num="27" type="stmt" count="24"/>
+      <line num="33" type="method" name="type" visibility="public" complexity="1" crap="1" count="48"/>
+      <line num="35" type="stmt" count="48"/>
+      <metrics loc="38" ncloc="25" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/AccountType/Gain.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\AccountType\Gain" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+      </class>
+      <line num="17" type="method" name="increasedVia" visibility="public" complexity="1" crap="1" count="3"/>
+      <line num="19" type="stmt" count="3"/>
+      <line num="25" type="method" name="decreasedVia" visibility="public" complexity="1" crap="1" count="3"/>
+      <line num="27" type="stmt" count="3"/>
+      <line num="33" type="method" name="type" visibility="public" complexity="1" crap="1" count="6"/>
+      <line num="35" type="stmt" count="6"/>
+      <metrics loc="38" ncloc="25" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/AccountType/Liability.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\AccountType\Liability" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+      </class>
+      <line num="17" type="method" name="increasedVia" visibility="public" complexity="1" crap="1" count="17"/>
+      <line num="19" type="stmt" count="17"/>
+      <line num="25" type="method" name="decreasedVia" visibility="public" complexity="1" crap="1" count="17"/>
+      <line num="27" type="stmt" count="17"/>
+      <line num="33" type="method" name="type" visibility="public" complexity="1" crap="1" count="34"/>
+      <line num="35" type="stmt" count="34"/>
+      <metrics loc="38" ncloc="25" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/AccountType/Loss.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\AccountType\Loss" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+      </class>
+      <line num="17" type="method" name="increasedVia" visibility="public" complexity="1" crap="1" count="3"/>
+      <line num="19" type="stmt" count="3"/>
+      <line num="25" type="method" name="decreasedVia" visibility="public" complexity="1" crap="1" count="3"/>
+      <line num="27" type="stmt" count="3"/>
+      <line num="33" type="method" name="type" visibility="public" complexity="1" crap="1" count="6"/>
+      <line num="35" type="stmt" count="6"/>
+      <metrics loc="38" ncloc="25" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/AccountType/Revenue.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\AccountType\Revenue" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+      </class>
+      <line num="17" type="method" name="increasedVia" visibility="public" complexity="1" crap="1" count="7"/>
+      <line num="19" type="stmt" count="7"/>
+      <line num="25" type="method" name="decreasedVia" visibility="public" complexity="1" crap="1" count="7"/>
+      <line num="27" type="stmt" count="7"/>
+      <line num="33" type="method" name="type" visibility="public" complexity="1" crap="1" count="14"/>
+      <line num="35" type="stmt" count="14"/>
+      <metrics loc="38" ncloc="25" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="3" elements="6" coveredelements="6"/>
+    </file>
+    <file name="/var/www/html/src/EricksonReyes/Accounting/Bookkeeping/Entry/EntryType.php">
+      <class name="EricksonReyes\Accounting\Bookkeeping\Entry\EntryType" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="4" elements="5" coveredelements="5"/>
+      </class>
+      <line num="18" type="method" name="label" visibility="public" complexity="1" crap="1" count="140"/>
+      <line num="20" type="stmt" count="140"/>
+      <line num="21" type="stmt" count="140"/>
+      <line num="22" type="stmt" count="140"/>
+      <line num="23" type="stmt" count="140"/>
+      <metrics loc="26" ncloc="19" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="4" elements="5" coveredelements="5"/>
+    </file>
+    <metrics files="98" loc="2315" ncloc="1552" classes="97" methods="121" coveredmethods="121" conditionals="0" coveredconditionals="0" statements="137" coveredstatements="137" elements="258" coveredelements="258"/>
+  </project>
+</coverage>
