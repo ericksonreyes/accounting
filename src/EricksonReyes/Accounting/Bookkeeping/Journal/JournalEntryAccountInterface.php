@@ -2,7 +2,6 @@
 
 namespace EricksonReyes\Accounting\Bookkeeping\Journal;
 
-
 use EricksonReyes\Accounting\Bookkeeping\Account\Account;
 
 /**

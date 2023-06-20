@@ -2,7 +2,6 @@
 
 namespace EricksonReyes\Accounting\Bookkeeping\Journal;
 
-
 /**
  * Interface JournalEntryInterface
  * @package EricksonReyes\Accounting\Bookkeeping\Journal
